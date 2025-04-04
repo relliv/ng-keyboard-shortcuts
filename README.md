@@ -1,5 +1,8 @@
 # ng-keyboard-shortcuts
 
+> [!CAUTION]
+> The original repo is active again. I'm archiving this repo. Please use original package.
+
 [![NPM](https://badge.fury.io/js/@egoistdeveloper%2Fng-keyboard-shortcuts.svg)](https://badge.fury.io/js/@egoistdeveloper%2Fng-keyboard-shortcuts)
 [![downlaods](https://img.shields.io/npm/dw/@egoistdeveloper%2Fng-keyboard-shortcuts)](https://badge.fury.io/js/@egoistdeveloper%2Fng-keyboard-shortcuts)
 [![bundlephobia](https://img.shields.io/bundlephobia/minzip/@egoistdeveloper%2Fng-keyboard-shortcuts)](https://bundlephobia.com/result?p=@egoistdeveloper%2Fng-keyboard-shortcuts)
